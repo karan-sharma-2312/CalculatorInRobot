@@ -22,4 +22,6 @@ Variables
 The script uses a variable named ${result} to store the result of calculations
 
 How to Run this file 
+
+
 Open the terminal and just write robot calculator.robot
